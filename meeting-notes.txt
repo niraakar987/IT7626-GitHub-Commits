@@ -1,0 +1,3 @@
+Team Meeting Project
+This repository is created for the IT6038 Web Services assessment.
+Testing GitHub commit notifications using Zapier.
